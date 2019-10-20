@@ -24,4 +24,4 @@ We will start with the download and analysis of the data. Enjoy :)
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
 
-https://nbviewer.jupyter.org/github/arnimpdm/Immoscout-scraper-analysis-and-other-magic/blob/master/Analysis%20and%20Predicition%20-%20Immowelt%20data.ipynb
+https://nbviewer.jupyter.org/github/arnimpdm/Immoscout-scraper-analysis-and-other-magic/blob/master/Analysis%20and%20Predicition%20-%20Immowelt%20data.ipynb?flush_cache=true
