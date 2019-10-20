@@ -9,10 +9,10 @@ https://www.immobilienscout24.de/
 
 For this project the following steps are being done:
 
- -Download data and transform it<br> - done
- -Analyze the data (Exporatory Data Analysis - EDA)<br> - done
- -Build a model to forecast housing prices<br> - in progress
- -Build a recommendation system<br> - in progress
+ -Download data and transform it - done<br>
+ -Analyze the data (Exporatory Data Analysis - EDA) - done<br>
+ -Build a model to forecast housing prices - in progress<br>
+ -Build a recommendation system - in progress<br>
  
  You can find the folowing notebooks:
  -"Initiate SQL.ipynb" - Initiation of the SQL database
