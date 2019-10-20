@@ -7,18 +7,17 @@ An end to end project which analyzes scraped data, predicts housing prices and r
 
 https://www.immobilienscout24.de/
 
+Immobilienscout is the biggest German housing database with 7 million viewers and 2 billion views per Month
+
+Im Dezember 2011 verschafften sich Hacker Zugriff auf Server von ImmobilienScout24 und damit auf Adress- und Kontaktdaten, Kundennummern und Namen sowohl von gewerblichen als auch privaten Anbietern.[24] 
+
 For this project the following steps are being done:
 
  -Download data and transform it - done<br>
  -Analyze the data (Exporatory Data Analysis - EDA) - done<br>
  -Build a model to forecast housing prices - in progress<br>
  -Build a recommendation system - in progress<br>
- 
- You can find the folowing notebooks:
- -"Initiate SQL.ipynb" - Initiation of the SQL database<br>
- -"Analysis-Housing-Scraper-and-cleanup-Windows.ipynb" - Scraper and cleanup<br>
- -"Analysis and Predicition - Immowelt data.ipynb" - Analysis and other magic :D<br>
- 
+
 We will start with the download and analysis of the data. Enjoy :)
 
 ## Please open "Analysis and Predicition - Immowelt data.ipynb"
