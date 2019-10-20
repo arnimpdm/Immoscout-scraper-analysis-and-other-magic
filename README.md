@@ -15,9 +15,9 @@ For this project the following steps are being done:
  -Build a recommendation system - in progress<br>
  
  You can find the folowing notebooks:
- -"Initiate SQL.ipynb" - Initiation of the SQL database
- -"Analysis-Housing-Scraper-and-cleanup-Windows.ipynb" - Scraper and cleanup
- -"Analysis and Predicition - Immowelt data.ipynb" - Analysis and other magic :D
+ -"Initiate SQL.ipynb" - Initiation of the SQL database<br>
+ -"Analysis-Housing-Scraper-and-cleanup-Windows.ipynb" - Scraper and cleanup<br>
+ -"Analysis and Predicition - Immowelt data.ipynb" - Analysis and other magic :D<br>
  
 We will start with the download and analysis of the data. Enjoy :)
 
