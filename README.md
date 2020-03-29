@@ -16,7 +16,6 @@ For this project the following steps are being done:
  -Add text analytics and maps - in progress<br>
  -Cluster analysis - in progress<br>
  -Build a model to forecast housing prices - in progress<br>
- -Build a recommendation system - in progress<br>
 
 We will start with the download and analysis of the data. Enjoy :)
 
