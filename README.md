@@ -20,7 +20,7 @@ For this project the following steps are being done:
 
 We will start with the download and analysis of the data. Enjoy :)
 
-## Please open "Analysis and Predicition - Immowelt data.ipynb"
+## Please open "Analysis and Predicition - Immoscout data.ipynb"
 
 ## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
 
